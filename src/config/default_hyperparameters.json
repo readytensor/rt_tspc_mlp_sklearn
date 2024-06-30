@@ -1,0 +1,7 @@
+{
+  "encode_len": 6,
+  "hidden_layer_size":  100,
+  "activation":  "relu",
+  "solver":  "adam",
+  "learning_rate":  "adaptive"
+}
